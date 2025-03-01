@@ -271,6 +271,57 @@
 ---
 
 ## Segurança da Informação (10)
+1. Gestão de identidades e acesso
+    - métodos de autenticação e autorização
+    - SSO (single sign-on)
+    - SAML (security assertion markup language)
+    - OAuth2, 
+    - OpenID Connect
+    - JWT (JSON web token)
+1. Autenticação em múltiplos fatores (MFA) 
+1. Privacidade e segurança por padrão. 
+1. Principais tipos de ataques e vulnerabilidades: 
+    - DDoS
+    - DoS
+    - DNS spoofing
+    - worms
+    - ransomware
+    - adware
+    - spyware
+    - keylogger
+    - cavalo de Troia
+    - eavesdropping
+    - phishing
+    - brute force
+    - port scanning
+    - injection (SQL, LDAP)
+    - XSS (cross-site scripting)
+    - quebra de autenticação e gerenciamento de sessão
+    - referência insegura a objetos
+    - cross-site request forgery
+    - armazenamento inseguro de dados criptografados
+1. Soluções para segurança da informação
+    - firewall
+    - IDS (intrusion detection system) 
+    - IPS (intrusion prevention system)
+    - SIEM (security information and event management)
+    - proxy
+    - IAM (identity access management)
+    - PAM (privileged access management)
+    - antivírus
+    - antispam 
+1. Controles e testes de segurança para aplicações web e web services
+1. Frameworks de segurança da informação e segurança cibernética
+    - MITRE ATT&CK
+    - CIS controls
+    - NIST cybersecurity framework (NIST CSF). 
+1. Normas
+    - Normas NBR ISO/IEC 27001
+    - NBR ISO/IEC 27002
+    - NBR ISO/IEC 27005
+1. Assinatura e certificação digital, criptografia e proteção de dados em trânsito e em repouso. 
+1. Segurança em nuvens e de contêineres. 
+1. Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais) e suas alterações.
 
 ---
 
